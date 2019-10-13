@@ -1,5 +1,6 @@
 # Capstone-2
 
+Skin melanoma has increased over the last decades. Although easy to treat if found early in its development, 5 year survival rate drops sharply if found after it spread to lymph node. Therefore, an early detection of the skin melanoma is vital for patient's survival. However as early melanoma can often be mistaken for harmless mole, not every patients will go straightly to a doctor to get a diagnosis. Using the previous data of malignant and benign melanoma, I made the skin melanoma detection system using openCV and Keras library.
 
 1. Data wrangling
 
@@ -10,7 +11,7 @@ Identify benign/malignant using metadata to be used for later when training mode
 
 2. Image processing
 
-* function.py contains many of the functions that are used in the 
+- function.py contains many of the functions that are used in the 
 
 2-1 Testing on single image
 
